@@ -1,10 +1,9 @@
-# Getting Started with Create React App
+# Test 360 RFLORES
 
-Test 360 RFLORES
 
-## Available Scripts
 
-In the project directory, you can run:
+## Instalar
+
 ### `npm install`
 ### `npm start`
 
